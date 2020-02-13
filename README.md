@@ -27,6 +27,7 @@ Fourier Filtering helps to de-noise the signal in order to find out the signific
 ![alt text](images/freq_decomposed_sum.png)
 
 **LSTM on S&P500 Time Series with Fourier Filering**
+<br>
 ![alt text](images/prediction_snp_lstm.png)
 ![alt text](images/lstm_fourier_filtered.png)
 
