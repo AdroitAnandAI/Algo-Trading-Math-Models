@@ -43,7 +43,7 @@ Auto correlation is one way to compute periodicity. But a more scientific way to
 ![alt text](images/freq_decomposed.png)
 ![alt text](images/freq_decomposed_sum.png)
 
-**LSTM on S&P500 Time Series with Fourier Filering**
+**LSTM on S&P500 Time Series with Fourier Filtering**
 <br>
 Long Short-Term Memory networks, can be used to learn from the series of past observations to predict the next value in the sequence.<br><br>
 A vanilla LSTM model has a single hidden layer of LSTM units, and an output layer used to make prediction. Here we are working with a uni-variate series, so the number of features is one.<br><br>
